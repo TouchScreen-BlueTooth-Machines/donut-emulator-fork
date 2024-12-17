@@ -1,3 +1,9 @@
+## WARNING!!
+
+Don't download Donut Emulator from this fork if you want the latest version! The latest version of DE is available at NetFruit Technologies
+
+
+
 <h1 align="center">Donut Emulator</h1>
 
 <p align="center">
